@@ -10,7 +10,7 @@ A simple app that converts numbers to different units.
 
 
 ## Preview
-<img src="" width="50%"/>
+<img src="https://github.com/thejoshyee/number-converter/blob/main/number-converter-preview.png" width="50%"/>
 
 ## Live Demo
 
